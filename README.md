@@ -2,10 +2,7 @@
 
 I'm a software developer with a hardware background and I make games for fun (and for a living).
 
-### Currently @
-<img src="https://unity3d.com/files/images/ogimg.jpg?1" width="120"> <img src="https://www.ricegames.net/press/images/logo.png" width="100">
-
-I've recently received my M.Eng in Computer Science from Cornell Tech and a B.S. in Electrical and Computer Engineering from Cornell University, with a minor in Game Design. My interests span game development, VR/AR, hardware and robotics, and generally how technology interacts with each other and the world. In my spare time, I enjoy listening to and making music, playing and making video games, falling off my skateboard, and taking low-quality pictures of dogs.
+I've recently received my M.Eng in Computer Science from Cornell Tech and a B.S. in Electrical and Computer Engineering from Cornell University, with a minor in Game Design. My interests span **game development**, **VR/AR**, **hardware** and **robotics**, and generally how technology interacts with each other and the world. In my spare time, I enjoy listening to and making music, playing and making video games, falling off my skateboard, and taking low-quality pictures of dogs.
 
 #### Check out my [website](https://at669.github.io/) to view some other projects I've worked on.
 
